@@ -69,7 +69,7 @@
             }
         },
         {
-            "couse" : "Ensino Médio",
+            "course" : "Ensino Médio",
             "institution" : "IFPR - Campus Paranaguá",
             "start" : {
                 "year" : 2019
