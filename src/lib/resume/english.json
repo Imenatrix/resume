@@ -1,0 +1,137 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "04/20/2004"
+    },
+    "contact" : {
+        "adress" : {
+            "street" : "Luiz Carlos Alves Street",
+            "number" : "116",
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brazil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230/",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Project Manager / Fullstack Developer",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+			"description" : "I supervised the work of two other colleagues. I developed an web app (https://github.com/Imenatrix/sisdle_web) and a mobile app (https://github.com/Imenatrix/sisdle_mobile) for SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico (Smart System for Supporting Electrochemical Waste Disposal), for IFPR - Campus Paranaguá"
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" : "Flowih",
+            "start" : {
+                "year" : 2023,
+                "month" : 4
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 8
+            },
+			"description" : "I architected and developed software solutions for our clients"
+        },
+        {
+            "position" : "AI Research & Development Specialist",
+            "company" : "Flowih",
+            "start" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 10
+            },
+			"description" : "I helped research and extension for commercial aplications of Artificial Inteligente. I coordenated the architecture and development of AI solutions for our client; notably, computer vision solutions and chatbots. I specialized in the creation of webscrapper"
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Elementary School",
+            "institution" : "Colégio Estadual Gabriel de Lara",
+            "end" : {
+                "year" : 2019
+            }
+        },
+        {
+            "couse" : "High School",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        },
+        {
+            "course" : "Computer Technitian",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "Super Formação Inteligência Artificial e Machine Learning",
+            "end" : {
+                "year" : 2021,
+                "month" : 2
+            }
+        },
+        {
+            "course" : "Redes Neurais Artificiais em Python",
+            "end" : {
+                "year" : 2020,
+                "month" : 8
+            }
+        },
+        {
+            "course" : "C# COMPLETO Programação Orientada a Objetos + Projetos",
+            "end" : {
+                "year" : 2020,
+                "month" : 2
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Silver Medal",
+            "event" : "OBMEP 2016 (Brazillian Public School Math Olympiads)"
+        },
+        {
+            "prize" : "Bronze Medal",
+            "event" : "OBMEP 2017 (Brazillian Public School Math Olympiads)"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2018 (Brazillian Public School Math Olympiads)"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2019 (Brazillian Public School Math Olympiads)"
+        },
+        {
+            "prize" : "Gold Medal",
+            "event" : "Maratona de Programação IFPR SEMEPI 2019 (Programming Marathon)"
+        }
+    ]
+}
