@@ -31,7 +31,7 @@
             "end" : {
                 "year" : 2021
             },
-            "description" : "Supervisionei a produção de outros dois colegas. Produzi uma aplicação web (https://github.com/Imenatrix/sisdle_web) e um aplicativo mobile (https://github.com/Imenatrix/sisdle_mobile) para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá"
+            "description" : "Supervisionei a produção de outros dois colegas. Produzi uma aplicação web e um aplicativo mobile para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá"
         },
         {
             "position" : "Desenvolvedor Fullstack",
@@ -133,5 +133,27 @@
             "prize" : "Medalha de Ouro",
             "event" : "Maratona de Programação IFPR SEMEPI 2019"
         }
-    ]
+    ],
+	"skills" : [
+		"Python",
+		"Node",
+		"React",
+		"Svelte",
+		"React Native",
+		"Flutter",
+		"Keras",
+		"Tensorflow",
+		"Docker",
+		"Google Cloud",
+		"PHP",
+		"Laravel",
+		"Linux"
+	],
+	"interests" : [
+		"Machine Learning",
+		"Engenharia e Arquitetura de Software",
+		"Programação em Baixo Nível",
+		"Desenvolvimento Web",
+		"DevOps"
+	]
 }
