@@ -1,0 +1,139 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : 116,
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brazil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Fullstack Developer",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+            "description" : "Developed a web application in Next to aggregate information from an IoT device, as well as provide this information on a dashboard and a mobile application with geolocation capability for SISDLE - Intelligent Support System for Electrochemical Waste Disposal, for IFPR - Campus Paranaguá."
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" :"Flowih",
+            "start" : {
+                "year" : 2023,
+                "month": 4
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "description" : "Architected and developed software solutions for our clients, including web applications in Node, PHP, Python (Django and Flask), and Ruby on Rails."
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" : "Shaw and Partners",
+            "start" : {
+                "year" : 2024,
+                "month" : 1
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 2
+            },
+            "description" : "Worked on the development and integration of an automated test module in the company's internal system with the central server in Node through message queues, and on a system for automating connection prospecting on social networks."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Technician in Computer Science",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "C# COMPLETE Object-Oriented Programming + Projects",
+            "end" : {
+                "year" : 2020,
+                "month" : 2
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Silver Medal",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Bronze Medal",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Gold Medal",
+            "event" : "IFPR SEMEPI Programming Marathon 2019"
+        }
+    ],
+    "skills" : [
+        "Linux",
+        "Docker",
+        "Firebase",
+        "Google Cloud",
+        "Python",
+        "Flask",
+        "Django",
+        "PHP",
+        "Laravel",
+        "Javascript",
+        "Node",
+        "Express",
+        "Nest",
+        "Adonis",
+        "Typescript",
+        "C#",
+        "ASP.NET",
+        "Entity Framework",
+        "Dart",
+        "C",
+        "Go",
+        "Gin",
+        "Rust",
+        "Ruby",
+        "Rails",
+        "SQL",
+        "Firestore",
+        "MongoDB",
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL"
+    ]
+}

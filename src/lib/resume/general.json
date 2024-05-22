@@ -1,0 +1,152 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : "116",
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brasil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230/",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Gerente de Projeto / Desenvolvedor Fullstack",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+            "description" : "Supervisionei a produção de outros dois colegas. Produzi uma aplicação web e um aplicativo mobile para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá"
+        },
+        {
+            "position" : "Desenvolvedor Fullstack",
+            "company" : "Flowih",
+            "start" : {
+                "year" : 2023,
+                "month" : 4
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes."
+        },
+        {
+            "position" : "AI Research & Development Specialist",
+            "company" : "Flowih",
+            "start" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 10
+            },
+            "description" : "Auxiliei na pesquisa e extensão da aplicação comercial de Inteligência Artificial. Coordenei a arquitetura e desenvolvimento de soluções de IA para nosso clientes; notavelmente, soluções de visão computacional e chatbots. Me especializei na criação de webscrappers."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Ensino Fundamental",
+            "institution" : "Colégio Estadual Gabriel de Lara",
+            "end" : {
+                "year" : 2019
+            }
+        },
+        {
+            "course" : "Ensino Médio",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        },
+        {
+            "course" : "Técnico em Informática",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "Super Formação Inteligência Artificial e Machine Learning",
+            "end" : {
+                "year" : 2021,
+                "month" : 2
+            }
+        },
+        {
+            "course" : "Redes Neurais Artificiais em Python",
+            "end" : {
+                "year" : 2020,
+                "month" : 8
+            }
+        },
+        {
+            "course" : "C# COMPLETO Programação Orientada a Objetos + Projetos",
+            "end" : {
+                "year" : 2020,
+                "month" : 2
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Medalha de Prata",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Medalha de Bronze",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Medalha de Ouro",
+            "event" : "Maratona de Programação IFPR SEMEPI 2019"
+        }
+    ],
+	"skills" : [
+		"Python",
+		"Node",
+		"React",
+		"Svelte",
+		"React Native",
+		"Flutter",
+		"Keras",
+		"Tensorflow",
+		"Docker",
+		"Google Cloud",
+		"PHP",
+		"Laravel",
+		"Linux"
+	]
+}

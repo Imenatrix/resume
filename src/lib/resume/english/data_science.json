@@ -1,0 +1,134 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : 116,
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brazil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Fullstack Developer",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+            "description" : "Developed an interactive dashboard with the ability to display geospatial data to monitor IoT devices attached to smart bins for SISDLE - Intelligent Support System for Electrochemical Waste Disposal, for IFPR - Campus Paranaguá."
+        },
+        {
+            "position" : "AI Research & Development Specialist",
+            "company" : "Flowih",
+            "start" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 10
+            },
+            "description" : "Assisted in research and extension of commercial AI applications. Coordinated the architecture and development of AI solutions for our clients; notably, computer vision solutions and chatbots. Specialized in creating web scrapers."
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" : "Shaw and Partners",
+            "start" : {
+                "year" : 2024,
+                "month" : 1
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 2
+            },
+            "description" : "Worked on developing Google Chrome browser extensions for automating the prospecting of relevant connections on social networks, using multimodal models and techniques such as computer vision, natural language processing, and dimensionality reduction."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Technician in Computer Science",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "Advanced Training in Artificial Intelligence and Machine Learning",
+            "end" : {
+                "year" : 2021,
+                "month" : 2
+            }
+        },
+        {
+            "course" : "Artificial Neural Networks in Python",
+            "end" : {
+                "year" : 2020,
+                "month" : 8
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Silver Medal",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Bronze Medal",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Gold Medal",
+            "event" : "IFPR SEMEPI Programming Marathon 2019"
+        }
+    ],
+    "skills" : [
+        "Python",
+        "SQL",
+        "Matplotlib",
+        "Pandas",
+        "Keras",
+        "Numpy",
+        "Tensorflow",
+        "Scikit Learn",
+        "Selenium",
+        "BeautifulSoup",
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL",
+        "MongoDB",
+        "Firestore",
+        "Docker",
+        "Google Cloud",
+        "Flask",
+        "Django"
+    ]
+}

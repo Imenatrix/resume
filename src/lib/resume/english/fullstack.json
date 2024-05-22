@@ -1,0 +1,151 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : 116,
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brazil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Fullstack Developer",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+            "description" : "Produced a web application in Next and a mobile app in React Native for SISDLE - Intelligent Support System for Electrochemical Waste Disposal, for IFPR - Campus Paranaguá."
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" :"Flowih",
+            "start" : {
+                "year" : 2023,
+                "month": 4
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "description" : "Architected and developed software solutions for our clients, including web applications in React and Svelte, and native and hybrid mobile apps with Flutter and React Native."
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" : "Shaw and Partners",
+            "start" : {
+                "year" : 2024,
+                "month" : 1
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 2
+            },
+            "description" : "Worked on developing Google Chrome browser extensions for automating the prospecting of relevant connections on social networks, as well as developing an automated testing module in the company's internal system, which communicates with the Node server and the React frontend through a message queue."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Technician in Computer Science",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "C# COMPLETE Object-Oriented Programming + Projects",
+            "end" : {
+                "year" : 2020,
+                "month" : 2
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Silver Medal",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Bronze Medal",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Honorable Mention",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Gold Medal",
+            "event" : "IFPR SEMEPI Programming Marathon 2019"
+        }
+    ],
+    "skills" : [
+        "Python",
+        "Flask",
+        "Django",
+        "PHP",
+        "Laravel",
+        "Javascript",
+        "Node",
+        "Express",
+        "Typescript",
+        "React",
+        "Next",
+        "React Native",
+        "Svelte",
+        "SvelteKit",
+        "Electron",
+        "Capacitor",
+        "Nest",
+        "Adonis",
+        "Java",
+        "JDBC",
+        "Java FX",
+        "C#",
+        "ASP.NET",
+        "Entity Framework",
+        "Dart",
+        "Flutter",
+        "C",
+        "Go",
+        "Gin",
+        "Rust",
+        "Ruby",
+        "Rails",
+        "SQL",
+        "Linux",
+        "Docker",
+        "Firebase",
+        "Google Cloud",
+        "Chrome Extensions",
+        "Firestore",
+        "MongoDB",
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL"
+    ]
+}

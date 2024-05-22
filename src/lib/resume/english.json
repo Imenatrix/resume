@@ -4,7 +4,7 @@
         "birth" : "04/20/2004"
     },
     "contact" : {
-        "adress" : {
+        "address" : {
             "street" : "Luiz Carlos Alves Street",
             "number" : "116",
             "district" : "Sertãozinho",
@@ -31,7 +31,7 @@
             "end" : {
                 "year" : 2021
             },
-			"description" : "I supervised the work of two other colleagues. I developed an web app (https://github.com/Imenatrix/sisdle_web) and a mobile app (https://github.com/Imenatrix/sisdle_mobile) for SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico (Smart System for Supporting Electrochemical Waste Disposal), for IFPR - Campus Paranaguá"
+			"description" : "I supervised the work of two other colleagues. I developed an web app (https://github.com/Imenatrix/sisdle_web) and a mobile app (https://github.com/Imenatrix/sisdle_mobile) for SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico (Smart System for Supporting Electrochemical Waste Disposal), for IFPR - Campus Paranaguá."
         },
         {
             "position" : "Fullstack Developer",
@@ -44,7 +44,7 @@
                 "year" : 2023,
                 "month" : 8
             },
-			"description" : "I architected and developed software solutions for our clients"
+			"description" : "I architected and developed software solutions for our clients."
         },
         {
             "position" : "AI Research & Development Specialist",
@@ -57,7 +57,20 @@
                 "year" : 2023,
                 "month" : 10
             },
-			"description" : "I helped research and extension for commercial aplications of Artificial Inteligente. I coordenated the architecture and development of AI solutions for our client; notably, computer vision solutions and chatbots. I specialized in the creation of webscrapper"
+			"description" : "I helped research and extension for commercial aplications of Artificial Inteligente. I coordenated the architecture and development of AI solutions for our client; notably, computer vision solutions and chatbots. I specialized in the creation of webscrappers."
+        },
+        {
+            "position" : "Fullstack Developer",
+            "company" : "Shaw & Partners",
+            "start" : {
+                "year" : 2023,
+                "month" : 12
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 2
+            },
+            "description" : "I contributed to internal company apps for resource management and worked applying AI agents on social media for automating discoverability of relevant profiles"
         }
     ],
     "education" : [
@@ -133,5 +146,22 @@
             "prize" : "Gold Medal",
             "event" : "Maratona de Programação IFPR SEMEPI 2019 (Programming Marathon)"
         }
-    ]
+    ],
+	"skills" : [
+		"Python",
+		"Node",
+		"React",
+		"React Native",
+		"Docker",
+		"Google Cloud",
+		"Linux",
+        "Go"
+	],
+	"interests" : [
+		"Machine Learning",
+		"Engenharia e Arquitetura de Software",
+        "Software Engineering and Architechture",
+		"Low Level Programming",
+		"DevOps"
+	]
 }

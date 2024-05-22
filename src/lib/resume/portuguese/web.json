@@ -1,0 +1,138 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : 116,
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brasil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Desenvolvedor Fullstack",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+            "description" : "Supervisionei a Produzi uma aplicação web em Next (meta-framework React) com visualização de dados geoespaciais para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
+        },
+        {
+            "position" : "Desenvolvedor Fullstack",
+            "company" :"Flowih",
+            "start" : {
+                "year" : 2023,
+                "month": 4
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em React, Svelte e Flutter."
+        },
+        {
+            "position" : "Desenvolvedor Fullstack",
+            "company" : "Shaw and Partners",
+            "start" : {
+                "year" : 2024,
+                "month" : 1
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 2
+            },
+            "description" : "Trabalhei no desenvolvimento de extensões de navegador para o Google Chrome para automação de prospecção de conexões relevantes em redes sociais, bem como na integração de um módulo de fila de mensagens para testes automatizados no frontend em React."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Técnico em Informática",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "C# COMPLETO Programação Orientada a Objetos + Projetos",
+            "end" : {
+                "year" : 2020,
+                "month" : 2
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Medalha de Prata",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Medalha de Bronze",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Medalha de Ouro",
+            "event" : "Maratona de Programação IFPR SEMEPI 2019"
+        }
+    ],
+    "skills" : [
+        "Python",
+        "Flask",
+        "Django",
+        "PHP",
+        "Laravel",
+        "Javascript",
+        "Node",
+        "Express",
+        "Typescript",
+        "React",
+        "Next",
+        "React Native",
+        "Svelte",
+        "SvelteKit",
+        "C#",
+        "ASP.NET",
+        "Entity Framework",
+        "Go",
+        "Gin",
+        "Ruby",
+        "Rails",
+        "SQL",
+        "Docker",
+        "Firebase",
+        "Google Cloud",
+        "Firestore",
+        "MongoDB",
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL"
+    ]
+}

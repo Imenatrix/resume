@@ -1,0 +1,134 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : 116,
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brasil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com",
+        "linkedin" : "linkedin.com/in/ruan-gomes-do-rosario-401698230",
+        "github" : "github.com/Imenatrix"
+    },
+    "experience" : [
+        {
+            "position" : "Desenvolvedor Fullstack",
+            "company" : "SISDLE (IFPR Paranaguá)",
+            "start" : {
+                "year" : 2020
+            },
+            "end" : {
+                "year" : 2021
+            },
+            "description" : "Desenvolvi uma dashboard interativa com capacidade de mostrar dados geoespaciais para monitorar dispositivos IoT acoplados a lixeiras inteligentes para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
+        },
+        {
+            "position" : "AI Research & Development Specialist",
+            "company" : "Flowih",
+            "start" : {
+                "year" : 2023,
+                "month" : 8
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 10
+            },
+            "description" : "Auxiliei na pesquisa e extensão da aplicação comercial de Inteligência Artificial. Coordenei a arquitetura e desenvolvimento de soluções de IA para nosso clientes; notavelmente, soluções de visão computacional e chatbots. Me especializei na criação de webscrappers."
+        },
+        {
+            "position" : "Desenvolvedor Fullstack",
+            "company" : "Shaw and Partners",
+            "start" : {
+                "year" : 2024,
+                "month" : 1
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 2
+            },
+            "description" : "Trabalhei no desenvolvimento de extensões de navegador para o Google Chrome para automação de prospecção de conexões relevantes em redes sociais, usando modelos multimodais, e usando técnicas como visão computacional, processamento de linguagem natural e redução de dimensionalidade."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Técnico em Informática",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "Super Formação Inteligência Artificial e Machine Learning",
+            "end" : {
+                "year" : 2021,
+                "month" : 2
+            }
+        },
+        {
+            "course" : "Redes Neurais Artificiais em Python",
+            "end" : {
+                "year" : 2020,
+                "month" : 8
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Medalha de Prata",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Medalha de Bronze",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Medalha de Ouro",
+            "event" : "Maratona de Programação IFPR SEMEPI 2019"
+        }
+    ],
+    "skills" : [
+        "Python",
+        "SQL",
+        "Matplotlib",
+        "Pandas",
+        "Keras",
+        "Numpy",
+        "Tensorflow",
+        "Scikit Learn",
+        "Selenium",
+        "BeautifulSoup",
+        "MySQL",
+        "MariaDB",
+        "PostgreSQL",
+        "MongoDB",
+        "Firestore",
+        "Docker",
+        "Google Cloud",
+        "Flask",
+        "Django"
+    ]
+}
