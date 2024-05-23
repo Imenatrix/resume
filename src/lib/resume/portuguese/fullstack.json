@@ -31,7 +31,7 @@
             "end" : {
                 "year" : 2021
             },
-            "description" : "Produzi uma aplicação web em Next e um aplicativo mobile React Native para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
+            "description" : "Produzi uma dashboard em Next e um aplicativo mobile React Native para visualização de dados a respeito de dispositivos IoT em relação a sua posição geoespacial para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
         },
         {
             "position" : "Desenvolvedor Fullstack",
@@ -44,7 +44,7 @@
                 "year" : 2023,
                 "month" : 8
             },
-            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em React e Svelte, e aplicativos mobile nativos e híbridos com Flutter e React Native."
+            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em React e Svelte, e aplicativos mobile nativos e híbridos com Flutter e React Native. Desenvolvi um aplicativo de gerenciamento de condominios e um sistema de transcodificação e gerenciamento de câmeras de monitoramento."
         },
         {
             "position" : "Desenvolvedor Fullstack",

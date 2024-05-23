@@ -44,7 +44,7 @@
                 "year" : 2023,
                 "month" : 8
             },
-            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em Node, PHP, Python (Django e Flask) e Ruby on Rails."
+            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em Node, PHP, Python (Django e Flask) e Ruby on Rails. Desenvolvi um servidor em Node para gerenciar e transcodificar transmissões ao vivo de câmeras de monitoramento espalhadas pelo país."
         },
         {
             "position" : "Desenvolvedor Fullstack",

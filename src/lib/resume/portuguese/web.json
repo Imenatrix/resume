@@ -31,7 +31,7 @@
             "end" : {
                 "year" : 2021
             },
-            "description" : "Supervisionei a Produzi uma aplicação web em Next (meta-framework React) com visualização de dados geoespaciais para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
+            "description" : "Produzi uma dashboard usando o Next (meta-framework React) para visualização de dados geoespaciais de vários dispositivos IoT para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
         },
         {
             "position" : "Desenvolvedor Fullstack",
@@ -44,7 +44,7 @@
                 "year" : 2023,
                 "month" : 8
             },
-            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em React, Svelte e Flutter."
+            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em React, Svelte e Flutter. Desenvolvi um sistema de gerenciamento e transcodificação de transmissões ao vivo de câmeras de monitoramento."
         },
         {
             "position" : "Desenvolvedor Fullstack",
