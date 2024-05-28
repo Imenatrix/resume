@@ -1,0 +1,107 @@
+{
+    "info" : {
+        "name" : "Ruan Gomes do Rosario",
+        "birth" : "20/04/2004"
+    },
+    "contact" : {
+        "address" : {
+            "street" : "Rua Luiz Carlos Alves",
+            "number" : 116,
+            "district" : "Sertãozinho",
+            "city" : "Matinhos",
+            "state" : "Paraná",
+            "country" : "Brasil"
+        },
+        "phone" : {
+            "code" : "+55",
+            "ddd" : "41",
+            "number" : "987011253"
+        },
+        "email" : "ruangomesdorosario@gmail.com"
+    },
+    "summary" : "Profissional dinâmico com uma ampla gama de habilidades. Habilidades consisitentes em liderança, comunicação, pesquisa, e grande familiaridade com computadores. Capaz de comunicar efetivamente e colaborar em equipe. Excelente capacidade de organização, resolução de problemas e pensamento analítico.",
+    "experience" : [
+        {
+            "position" : "Assistente de TI",
+            "company" :"Flowih",
+            "start" : {
+                "year" : 2023,
+                "month": 4
+            },
+            "end" : {
+                "year" : 2023,
+                "month" : 10
+            },
+            "description" : "Trabalhei com atendimento ao cliente, suporte de TI e participei do processo de vendas."
+        },
+        {
+            "position" : "Vendedor",
+            "company" : "Saint Germain Alumínio",
+            "start" : {
+                "year" : 2024,
+                "month" : 3
+            },
+            "end" : {
+                "year" : 2024,
+                "month" : 5
+            },
+            "description" : "Prospectava clientes e vendia barras de alumínio por telefone."
+        }
+    ],
+    "education" : [
+        {
+            "course" : "Ensino Fundamental",
+            "institution" : "C.E. Gabriel de Lara",
+            "end" : {
+                "year" : 2018
+            }
+        },
+        {
+            "course" : "Ensino Médio",
+            "institution" : "IFPR - Campus Paranaguá",
+            "start" : {
+                "year" : 2019
+            },
+            "end" : {
+                "year" : 2022
+            }
+        }
+    ],
+    "courses" : [
+        {
+            "course" : "Curso de Manutenção, Eletrônica e Software em Celulares 3 em 1",
+            "end" : {
+                "year" : 2024,
+                "month" : 5
+            }
+        }
+    ],
+    "prizes" : [
+        {
+            "prize" : "Medalha de Prata",
+            "event" : "OBMEP 2016"
+        },
+        {
+            "prize" : "Medalha de Bronze",
+            "event" : "OBMEP 2017"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2018"
+        },
+        {
+            "prize" : "Menção Honrosa",
+            "event" : "OBMEP 2019"
+        },
+        {
+            "prize" : "Medalha de Ouro",
+            "event" : "Maratona de Programação IFPR SEMEPI 2019"
+        }
+    ],
+    "skills" : [
+        "Habilidades avançadas em informática, incluindo Microsoft Office (Word, Excel, PowerPoint)",
+        "Excelenetes habilidades de comunicação, trabalho em equipe e organização",
+        "Habilidades com atendimento ao cliente",
+        "Manutenção de computadores"
+    ]
+}
