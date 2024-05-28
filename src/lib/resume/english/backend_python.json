@@ -10,7 +10,7 @@
             "district" : "Sertãozinho",
             "city" : "Matinhos",
             "state" : "Paraná",
-            "country" : "Brasil"
+            "country" : "Brazil"
         },
         "phone" : {
             "code" : "+55",
@@ -23,7 +23,7 @@
     },
     "experience" : [
         {
-            "position" : "Desenvolvedor Fullstack",
+            "position" : "Fullstack Developer",
             "company" : "SISDLE (IFPR Paranaguá)",
             "start" : {
                 "year" : 2020
@@ -31,10 +31,10 @@
             "end" : {
                 "year" : 2021
             },
-            "description" : "Produzi uma dashboard em Next e um aplicativo mobile React Native para visualização de dados a respeito de dispositivos IoT em relação a sua posição geoespacial para o SISDLE - Sistema Inteligente de Suporte ao Descarte de Lixo Eletroquímico, para o IFPR - Campus Paranaguá."
+            "description" : "Developed a web application in Next to aggregate information from an IoT device, as well as provide this information on a dashboard and a mobile application with geolocation capability for SISDLE - Intelligent Support System for Electrochemical Waste Disposal, for IFPR - Campus Paranaguá."
         },
         {
-            "position" : "Desenvolvedor Fullstack",
+            "position" : "Fullstack Developer",
             "company" :"Flowih",
             "start" : {
                 "year" : 2023,
@@ -44,10 +44,10 @@
                 "year" : 2023,
                 "month" : 10
             },
-            "description" : "Arquitetei e desenvolvi soluções de software para nossos clientes, incluindo aplicações em web em React e Svelte, e aplicativos mobile nativos e híbridos com Flutter e React Native. Desenvolvi um aplicativo de gerenciamento de condominios e um sistema de transcodificação e gerenciamento de câmeras de monitoramento."
+            "description" : "Architected and developed software solutions for our clients, including web applications in Node, PHP, Python (Django and Flask), and Ruby on Rails."
         },
         {
-            "position" : "Desenvolvedor Fullstack",
+            "position" : "Fullstack Developer",
             "company" : "Shaw and Partners",
             "start" : {
                 "year" : 2024,
@@ -57,12 +57,12 @@
                 "year" : 2024,
                 "month" : 2
             },
-            "description" : "Trabalhei no desenvolvimento de extensões de navegador para o Google Chrome para automação de prospecção de conexões relevantes em redes sociais, bem como no desenvolvimento de um módulo de testes automatizados no sistema interno da empresa, que se comunica com o servidor Node e o frontend em React através de uma fila de mensagens."
+            "description" : "Worked on the development and integration of an automated test module in the company's internal system with the central server in Node through message queues, and on a system for automating connection prospecting on social networks."
         }
     ],
     "education" : [
         {
-            "course" : "Técnico em Informática",
+            "course" : "Technician in Computer Science",
             "institution" : "IFPR - Campus Paranaguá",
             "start" : {
                 "year" : 2019
@@ -74,7 +74,7 @@
     ],
     "courses" : [
         {
-            "course" : "C# COMPLETO Programação Orientada a Objetos + Projetos",
+            "course" : "C# COMPLETE Object-Oriented Programming + Projects",
             "end" : {
                 "year" : 2020,
                 "month" : 2
@@ -83,65 +83,35 @@
     ],
     "prizes" : [
         {
-            "prize" : "Medalha de Prata",
+            "prize" : "Silver Medal",
             "event" : "OBMEP 2016"
         },
         {
-            "prize" : "Medalha de Bronze",
+            "prize" : "Bronze Medal",
             "event" : "OBMEP 2017"
         },
         {
-            "prize" : "Menção Honrosa",
+            "prize" : "Honorable Mention",
             "event" : "OBMEP 2018"
         },
         {
-            "prize" : "Menção Honrosa",
+            "prize" : "Honorable Mention",
             "event" : "OBMEP 2019"
         },
         {
-            "prize" : "Medalha de Ouro",
-            "event" : "Maratona de Programação IFPR SEMEPI 2019"
+            "prize" : "Gold Medal",
+            "event" : "IFPR SEMEPI Programming Marathon 2019"
         }
     ],
     "skills" : [
         "Python",
         "Flask",
         "Django",
-        "PHP",
-        "Laravel",
-        "Javascript",
-        "Node",
-        "Express",
-        "Typescript",
-        "React",
-        "Next",
-        "React Native",
-        "Svelte",
-        "SvelteKit",
-        "Electron",
-        "Capacitor",
-        "Nest",
-        "Adonis",
-        "Java",
-        "JDBC",
-        "Java FX",
-        "C#",
-        "ASP.NET",
-        "Entity Framework",
-        "Dart",
-        "Flutter",
-        "C",
-        "Go",
-        "Gin",
-        "Rust",
-        "Ruby",
-        "Rails",
-        "SQL",
         "Linux",
         "Docker",
         "Firebase",
         "Google Cloud",
-        "Chrome Extensions",
+        "SQL",
         "Firestore",
         "MongoDB",
         "MySQL",
